@@ -1,5 +1,15 @@
 # Marketing Campaign Analysis
 
+## Table of content
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning/Prepration](#data-cleaningprepration)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#resultsfindings)
+- [Recommendations](#recommendations)
+
 ## Project Overview
 XYZ Paints Inc. is a paint company which was recently launched in 2019. Since then, they have established their name in top tier 1 and 2 cities (slowly expanding to tier 3 cities as well). 
 
